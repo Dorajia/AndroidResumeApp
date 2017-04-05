@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/.android/build-cache/400bc119126413fd30798f0e924511287c556f11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2803482d922e00729e6653d83a78fc3c2af54c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/Downloads/Resume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4948f5e853c392867ae0410fad0bff5d26b84d10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/.android/build-cache/7306ecf0ec6a5564c72e0c3c07dfbc4721d9b794/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a08e6a7904f5f027f61d3de48e416ba9c8a600ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/Downloads/Resume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01738b6aa1bc711cd464f307f7570a8f8f0dfb15">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea8d3258fac2a4345525ceb2a9170c0bb9fe8f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/.android/build-cache/404236909b895984a98c7dfcfdbd79a154657d1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cde9c8bb99a8ce1e74410799b4c80e619e3ca37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/.android/build-cache/0a8801e078a6b56226273001fab6e0835dc6b083/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9178436974bf21c39f74b08b73c88b2060e5d84">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4253edf186e900cc1bb27ab2be80f08e00b0e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dora/.android/build-cache/7f6e00b5c898a0cdb0f72541b64bd2c802658719/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11ddc739341e5d451fc4d8a9711ca0b40d2b38ba">
+        <dex dex="/Users/Dora/Downloads/Resume/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebaa86c879a500e30ac4c72760f029988c30b17b/classes.dex" />
+    </item>
+
+</items>

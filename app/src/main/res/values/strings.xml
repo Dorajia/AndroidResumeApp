@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Resume</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="fragment_amain_title">Social</string>
+    <string name="fragment_bmain_title">Basic Info</string>
+    <string name="fragment_cmain_title">Work</string>
+    <string name="display_bactivity">Display B Activity</string>
+
+    <string name="title_activity_b">BActivity</string>
+    <string name="fragment_b_title">B Fragment</string>
+    <string name="action_search">Search</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- NavigationDrawer -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="placeholder_number">00+</string>
+    <string name="search_hint">Search</string>
+
+</resources>
